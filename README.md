@@ -42,13 +42,6 @@ This project presents a complete exploratory analysis of historical online retai
 - Small number of customers contribute to a large portion of revenue.  
 - Strategy: Introduce loyalty programs and targeted marketing.
 
-### 5. Return & Refund Behavior  
-- Returns are concentrated in specific items and customer groups.  
-- Proposal: Improve product quality and post-purchase service.
-
-### 6. Seasonality Insights  
-- Significant sales increase during holidays and promotional periods.  
-- Action: Stock and staff planning should align with seasonal demand.
 
 ---
 
@@ -58,7 +51,7 @@ This project presents a complete exploratory analysis of historical online retai
 - 📦 **Optimize Inventory & Product Structure** to reduce waste and improve satisfaction.
 - 🌍 **Expand to EU Markets** with localized marketing and better logistics.
 - 📅 **Leverage Seasonality** to maximize revenue through proactive planning.
-- 🔄 **Enhance Return Process** using data-driven product/service improvement.
+
 
 ---
 
@@ -73,12 +66,6 @@ This project presents a complete exploratory analysis of historical online retai
 ## 🔗 Dataset Source
 
 > UCI Machine Learning Repository – [Online Retail Dataset](https://archive.ics.uci.edu/dataset/352/online+retail)
-
----
-
-## 👀 Preview
-
-![Sales Trend](Monthly_Sales_Trend.png)
 
 ---
 
