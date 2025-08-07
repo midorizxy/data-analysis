@@ -198,7 +198,7 @@ plt.figure(figsize=(10, 5))
 plt.barh(top_products['Description'], top_products['TotalPrice'])
 plt.title('Top 10 Best-Selling Products (Total Sales in GBP)')
 plt.xlabel('Total Sales (£)')
-plt.gca().invert_yaxis()  # 让最大值排在上面
+plt.gca().invert_yaxis()  
 plt.tight_layout()
 plt.savefig('Best_Selling_Pro.png')
 plt.show()
